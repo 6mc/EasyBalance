@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b66f579d0774f2c4fae50f3cd5da40d1
+timeCreated: 1506633573
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Signika Negative
+  fontNames:
+  - Signika Negative
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
